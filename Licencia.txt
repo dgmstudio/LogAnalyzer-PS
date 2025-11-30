@@ -1,0 +1,27 @@
+Business Source License 1.1
+//Esta es una traducción de cortesía. En caso de conflicto o ambigüedad, el texto de la Licencia en inglés (LICENSE.txt) será el único legalmente válido.
+
+
+Additional Use Grant: The Licensed Work may be used by any individual or entity solely for internal business purposes, system administration, and security analysis. This grant does not allow the commercialization of the Licensed Work as a service offered to third parties, or its inclusion in a paid managed security service (MSSP) or similar offering.
+
+Change Date: 2028-11-01
+
+Change License: Apache License, Version 2.0
+
+Licensor: Diego García Merino
+
+License text copyright (c) 2025 Diego García Merino, All Rights Reserved.
+"Business Source License" es una marca comercial de MariaDB plc.
+Terms.
+
+The Licensor hereby grants you the right to copy, modify, create derivative works, redistribute, and make non-productive use of the Licensed Work. The Licensor may grant an Additional Use Grant, above, permitting limited production use.
+
+As of the Change Date, or the fourth anniversary of the first publicly available distribution of a specific version of the Licensed Work under this License, whichever occurs first, the Licensor hereby grants you the rights under the terms of the Change License, and the rights granted in the preceding paragraph terminate.
+
+If your use of the Licensed Work does not comply with the currently applicable requirements as described in this License, you must obtain a commercial license from the Licensor, its affiliates, or authorized resellers, or you must refrain from using the Licensed Work. All copies of the original and modified Licensed Work, and derivative works of the Licensed Work, are subject to this License. This License applies separately to each version of the Licensed Work, and the Date of Change may vary for each version of the Licensed Work released by the Licensor.
+
+You must prominently display this License on each original or modified copy of the Licensed Work. If you receive the Licensed Work in original or modified form from a third party, the terms and conditions set forth in this License apply to your use of that work. Any use of the Licensed Work that violates this License will automatically terminate your rights under this License for the current version and all subsequent versions of the Licensed Work.
+
+This License does not grant you any rights to any trademark or logo of the Licensor or its affiliates (provided that you may use a trademark or logo of the Licensor as expressly permitted by this License).
+
+TO THE EXTENT PERMITTED BY APPLICABLE LAW, THE LICENSED WORK IS PROVIDED "AS IS". THE LICENSOR HEREBY DISCLAIMS ALL WARRANTIES AND CONDITIONS, EXPRESS OR IMPLIED, INCLUDING (WITHOUT LIMITATION) THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT AND TITLE.

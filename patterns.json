@@ -1,0 +1,5 @@
+{
+  "low": "(\\.\\./|select.*from|union.*select|%3Cscript|%3Ciframe)",
+  "med": "(\\.\\./|%3Cscript|%3Ciframe|UNION.*SELECT|SELECT.*FROM|wget |curl |python|urllib|requests|mechanize|scrapy)",
+  "high": "(\\.\\./|%3Cscript|%3Ciframe|%3C|%3E|SELECT.*FROM|UNION.*SELECT|INSERT.*INTO|UPDATE.*SET|DELETE.*FROM|DROP.*TABLE|xp_cmdshell|/etc/passwd|\\\\win.ini|cmd.exe|wget |curl |python|urllib|requests|mechanize|scrapy|nmap|nikto|sqlmap|bsqlbf|sleep\\(|benchmark\\()"
+}
