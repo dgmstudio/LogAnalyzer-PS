@@ -167,6 +167,7 @@ Esta licencia está configurada con una Fecha de Cambio de **3 años** desde Nov
 ### ⚠️ Descargo de Responsabilidad (Disclaimer)
 
 **El software se entrega "tal cual" (as is), sin garantías de ningún tipo, expresas o implícitas.**
+**Probado en Windows, Linux y ficheros log de Apache, con IA de Gemini**
 
 En ningún caso los autores o los titulares de los derechos de autor serán responsables de reclamaciones, daños u otras responsabilidades que surjan del uso del software.
 
